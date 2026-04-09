@@ -361,15 +361,15 @@ const team = [
     twitter: "https://x.com/BrunaLe17745500",
     telegram: "https://t.me/buu_leao"
   },
-  {
-    id: "abhinav",
-    name: "Abhinav",
-    role: "Product Manager - Consumer Products",
-    img: "/assets/team/abhinav.jpeg",
-    telegram: "https://t.me/abhinavrattan",
-    twitter: "https://x.com/abhirattan15",
-    projects: [PROJECT_ID.dlNews],
-  },
+  // {
+  //   id: "abhinav",
+  //   name: "Abhinav",
+  //   role: "Product Manager - Consumer Products",
+  //   img: "/assets/team/abhinav.jpeg",
+  //   telegram: "https://t.me/abhinavrattan",
+  //   twitter: "https://x.com/abhirattan15",
+  //   projects: [PROJECT_ID.dlNews],
+  // },
   {
     id: "ajisad",
     name: "Ajisad",
@@ -497,6 +497,14 @@ const team = [
     projects: [PROJECT_ID.dlNews, PROJECT_ID.dlResearch],
   },
   {
+    id: "Sébastien-Nave",
+    name: "Sébastien",
+    role: "Senior Research Analyst",
+    img: "/assets/team/Sébastien-Nave.png",
+    projects: [PROJECT_ID.dlResearch],
+    twitter: 'https://x.com/Sebateau22',
+  },
+  {
     id: "stan",
     name: "Stan",
     role: "Research Analyst",
@@ -504,14 +512,6 @@ const team = [
     projects: [PROJECT_ID.dlResearch],
     twitter: 'https://x.com/stan3web',
     telegram: "https://t.me/stan3web",
-  },
-  {
-    id: "Sébastien-Nave",
-    name: "Sébastien",
-    role: "Senior Research Analyst",
-    img: "/assets/team/Sébastien-Nave.png",
-    projects: [PROJECT_ID.dlResearch],
-    twitter: 'https://x.com/Sebateau22',
   },
 
   // REMOVED
