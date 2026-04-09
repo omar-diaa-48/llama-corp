@@ -474,7 +474,7 @@ const team = [
   {
     id: "omar",
     name: "Omar",
-    role: "Full Stack Engineer",
+    role: "Senior Full Stack Engineer",
     img: "/assets/team/omar.jpeg",
     github: "https://github.com/omar-diaa-48",
     projects: [PROJECT_ID.dlNews],
@@ -508,7 +508,7 @@ const team = [
   {
     id: "Sébastien-Nave",
     name: "Sébastien",
-    role: "Research Analyst",
+    role: "Senior Research Analyst",
     img: "/assets/team/Sébastien-Nave.png",
     projects: [PROJECT_ID.dlResearch],
     twitter: 'https://x.com/Sebateau22',
